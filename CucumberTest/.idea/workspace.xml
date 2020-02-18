@@ -31,22 +31,7 @@
       <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.runDropdown">
-    <configuration name="runCheckbox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CucumberTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="checkbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="checkbox" />
-      <option name="MAIN_CLASS_NAME" value="checkbox.runCheckbox" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.runKeyPressTest">
     <configuration name="runDropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberTest" />
       <extension name="coverage">
@@ -62,21 +47,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="runHoverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CucumberTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hover.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hover" />
-      <option name="MAIN_CLASS_NAME" value="hover.runHoverTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="runIframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CucumberTest" />
       <extension name="coverage">
@@ -87,6 +57,36 @@
       </extension>
       <option name="PACKAGE_NAME" value="iframe" />
       <option name="MAIN_CLASS_NAME" value="iframe.runIframe" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runKeyPressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keypress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="keypress" />
+      <option name="MAIN_CLASS_NAME" value="keypress.runKeyPressTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.runLoginTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.runKeyPressTest" />
+        <item itemvalue="JUnit.runLoginTest" />
         <item itemvalue="JUnit.runDropdown" />
         <item itemvalue="JUnit.runNestedframe" />
         <item itemvalue="JUnit.runIframe" />
-        <item itemvalue="JUnit.runCheckbox" />
-        <item itemvalue="JUnit.runHoverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -156,43 +156,43 @@
     </state>
     <state x="818" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1581226295120" />
     <state x="818" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1581902521458" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1581996691067">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1582013284827">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1384" height="195" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581298142603" />
-    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1581645647116" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582013284827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582013210984" />
     <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1581996691067" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1581996424516" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1582013012148" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1581905352589" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1581905440054" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1581904242679" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1581996691067">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1582013284826">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1384" height="195" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581298142602" />
-    <state width="1398" height="294" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1581645647115" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582013284826" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582013210983" />
     <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1581996691067" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1581996424515" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1582013012148" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1581905352589" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1581905440054" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1581904242678" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1581996691066">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1582013284826">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1384" height="195" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581298142602" />
-    <state width="1398" height="294" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1581645647115" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582013284826" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582013210983" />
     <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1581996691066" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1581996424514" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1582013012148" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1581905352588" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1581905440053" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1581904242677" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1581996691067">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1582013284827">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1384" height="195" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581298142603" />
-    <state width="1398" height="294" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1581645647115" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582013284827" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582013210983" />
     <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1581996691067" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1581996424515" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1582013012148" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1581905352589" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1581905440054" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1581904242678" />
@@ -220,5 +220,10 @@
     <state width="1384" height="333" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1581539550589" />
     <state width="1384" height="249" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1581388587535" />
     <state width="1384" height="228" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1581386187487" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CucumberTest$runKeyPressTest.ic" NAME="runKeyPressTest Coverage Results" MODIFIED="1582013012115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>keypress.*</FILTER>
+    </SUITE>
   </component>
 </project>
